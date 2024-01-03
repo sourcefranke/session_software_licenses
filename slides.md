@@ -16,9 +16,8 @@ title: FOSS licenses
 mdc: true
 ---
 
+# Why should I care about
 # FOSS Software Licenses
-
-Why should we care about all this?
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
@@ -31,10 +30,62 @@ Why should we care about all this?
 
 # The Small Print
 
-Before we can start ...
+Before we start, just some quick legal aspects 
 
-<iframe style="width: 100%; height: 80%"
-    src="https://sourcefranke.github.io/be_social_license/license.txt">
-</iframe>
+If you want to reuse the presentation or parts of it, be aware of the "Terms and Conditions" ;P
+
+<iframe style="width: 100%; height: 70%" src="https://sourcefranke.github.io/be_social_license/license.txt"></iframe>
 
 Source: https://sourcefranke.github.io/be_social_license
+
+
+---
+
+# When I started to care about licenses
+
+<div style="display: flex; justify-content: center">
+    <img src="public/broadcom_vmware.png" height="75%" width="75%" />
+</div>
+
+Source: https://www.broadcom.com/blog/broadcom-announces-successful-acquisition-of-vmware
+
+---
+layout: image-right
+image: ./confused.jpg
+---
+
+# When did I last REALLY check the terms of ...
+
+<ul>
+    <li>Open Source frameworks I use</li>
+    <li>all the insurances I have</li>
+    <li>the employment contract I signed years ago</li>
+    <li>etc.</li>
+</ul>
+
+---
+
+# What is a Software License?
+
+
+---
+
+# Let's have a closer look
+
+
+---
+
+# Angular
+MIT license
+
+
+---
+
+# Spring Boot
+Apache License, Version 2.0
+
+
+---
+
+# Java
+... there is not just one!
