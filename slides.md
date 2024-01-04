@@ -4,20 +4,15 @@ background: https://wallpaperaccess.com/full/702861.jpg
 class: text-center
 highlighter: shiki
 lineNumbers: false
-info: |
-  ## Slidev Starter Template
-  Presentation slides for developers.
-
-  Learn more at [Sli.dev](https://sli.dev)
 drawings:
   persist: false
 transition: slide-left
-title: FOSS licenses
+title: Open Source licenses
 mdc: true
 ---
 
-# Why should I care about
-# FOSS Software Licenses
+# (Open Source) Licenses
+# So boring ... isn't it?
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
@@ -32,7 +27,7 @@ mdc: true
 
 Before we start, just some quick legal aspects 
 
-If you want to reuse the presentation or parts of it, be aware of the "Terms and Conditions" ;P
+If you want to reuse the presentation or parts of it, please check the TERMS AND CONDITIONS ;P
 
 <iframe style="width: 100%; height: 70%" src="https://sourcefranke.github.io/be_social_license/license.txt"></iframe>
 
@@ -41,10 +36,11 @@ Source: https://sourcefranke.github.io/be_social_license
 
 ---
 
-# When I started to care about licenses
+# Why care about licenses?
+Something happened behind the scenes of Spring Boot - a framework we use every day
 
 <div style="display: flex; justify-content: center">
-    <img src="public/broadcom_vmware.png" height="75%" width="75%" />
+    <img src="public/broadcom_vmware.png" height="70%" width="70%" />
 </div>
 
 Source: https://www.broadcom.com/blog/broadcom-announces-successful-acquisition-of-vmware
@@ -64,13 +60,24 @@ image: ./confused.jpg
 </ul>
 
 ---
+layout: quote
+---
 
 # What is a Software License?
+Some short definition ...
 
+"A software license is a document that provides legally binding guidelines for the use and distribution of software.
+
+Software licenses typically provide end users with the right to one or more copies of the software without violating
+copyrights. The license also defines the responsibilities of the parties entering into the license agreement and may
+impose restrictions on how the software can be used."
+
+Source: https://www.techtarget.com/searchcio/definition/software-license
 
 ---
 
 # Let's have a closer look
+... on tools and frameworks we regularly use
 
 
 ---
