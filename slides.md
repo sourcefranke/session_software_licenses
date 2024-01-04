@@ -75,17 +75,26 @@ image: ./confused.jpg
 
 ---
 
+# TypeScript
+Apache License, Version 2.0
+
+
+---
+
 # Angular
 MIT license
 
 
 ---
 
-# Spring Boot
-Apache License, Version 2.0
+# Java
+... there is not just one!
 
+<!--
+This is another note
+-->
 
 ---
 
-# Java
-... there is not just one!
+# Now, what about Spring Boot?
+Apache License, Version 2.0
