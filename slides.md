@@ -27,9 +27,16 @@ mdc: true
 
 Before we start, just some quick legal aspects
 
-<iframe style="width: 100%; height: 75%" src="https://sourcefranke.github.io/be_social_license/license.txt"></iframe>
+<iframe style="width: 100%; height: 75%; border-style: solid; border-width: medium;" src="https://sourcefranke.github.io/be_social_license/license.txt"></iframe>
 
 Source: https://sourcefranke.github.io/be_social_license
+
+
+---
+layout: fact
+---
+
+## Note: I am not a legal expert!
 
 
 ---
@@ -84,7 +91,9 @@ Source: https://www.techtarget.com/searchcio/definition/software-license
 # TypeScript
 Apache License, Version 2.0
 
-<iframe style="width: 100%; height: 75%; border-style: solid; border-width: medium;" src="public/apache.txt"></iframe>
+<div style="display: flex; justify-content: center; height: 75%">
+    <iframe style="width: 70%; border-style: solid; border-width: medium;" src="public/apache.txt"></iframe>
+</div>
 
 Source: https://github.com/microsoft/TypeScript
 
@@ -108,14 +117,39 @@ Source: https://angular.io/license
 Massachusetts Institute of Technology (MIT)
 -->
 
+
 ---
 
 # Java
-... there is not just one!
+There is not just one!
 
 <!--
 This is another note
 -->
+
+
+---
+
+# OpenJDK
+GPLv2
+
+<div style="display: flex; justify-content: center; height: 75%">
+    <iframe style="width: 70%; border-style: solid; border-width: medium;" src="public/gpl-2.0.txt"></iframe>
+</div>
+
+Source: https://github.com/openjdk/jdk
+
+
+---
+
+# Speaking of GPL
+It has an impact in real life!
+
+<div style="display: flex; justify-content: center">
+    <img src="public/sfc_vizio.png" height="95%" width="95%" />
+</div>
+
+Source: https://www.zdnet.com/article/software-freedom-conservancy-wins-big-step-forward-for-open-source-rights/
 
 ---
 
@@ -127,6 +161,5 @@ Apache License, Version 2.0
 layout: end
 ---
 
-# Conclusion?
-# All fine!
-But: Read The F***ing Small Print (RTFSP)
+# Some final statement
+=> Read The F***ing Small Print (RTFSP)
