@@ -44,7 +44,7 @@ Source: https://sourcefranke.github.io/be_social_license
 Once upon a time in the Executive Suite
 
 <div style="display: flex; justify-content: space-between; gap: 10px; height: 75%">
-    <img src="broadcom_vmware.png" width="75%" />
+    <img src="/broadcom_vmware.png" width="75%" />
     <div style="width: 28%; align-self: center">
         <h3>VMware</h3>
         Developer of Spring Boot
@@ -91,10 +91,10 @@ Source: https://www.techtarget.com/searchcio/definition/software-license
 Tools and frameworks we use all the time
 
 <div style="display: flex; justify-content: space-between; background-color: white; padding: 10px">
-    <img src="Angular.svg" width="20%"/>
-    <img src="Java.svg" width="20%"/>
-    <img src="Typescript.svg" width="20%" />
-    <img src="Spring_Boot.svg" width="20%"/>
+    <img src="/Angular.svg" width="20%"/>
+    <img src="/Java.svg" width="20%"/>
+    <img src="/Typescript.svg" width="20%" />
+    <img src="/Spring_Boot.svg" width="20%"/>
 </div>
 
 Do you actually know about any license terms for your tools?
@@ -132,7 +132,7 @@ It depends! \:-D
 <br>
 <div style="display: flex; flex-flow: row; justify-content: space-around;">
     <div style="width: 45%">
-        <img src="Oracle.svg" style="width: 100%; height: 50px" />
+        <img src="/Oracle.svg" style="width: 100%; height: 50px" />
         <br>
         <ul>
             <li>Proprietary</li>
@@ -145,7 +145,7 @@ It depends! \:-D
          </a>
     </div>
     <div style="width: 45%">
-        <img src="openjdk.png" style="width: 100%; height: 50px" />
+        <img src="/openjdk.png" style="width: 100%; height: 50px" />
         <br>
         <ul>
             <li>Open Source (starting with OpenJDK 7)</li>
@@ -183,8 +183,8 @@ It definitely has some real impact!
 <br>
 
 <div style="display: flex; justify-content: space-between">
-    <img src="sfc_vizio_1.png" height="49%" width="49%" />
-    <img src="sfc_vizio_2.png" height="49%" width="49%" />
+    <img src="/sfc_vizio_1.png" height="49%" width="49%" />
+    <img src="/sfc_vizio_2.png" height="49%" width="49%" />
 </div>
 
 <br>
