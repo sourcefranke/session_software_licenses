@@ -27,7 +27,7 @@ mdc: true
 Before we start: a short legal hint
 
 <div style="display: flex; justify-content: space-between; gap: 10px; height: 75%">
-   <iframe style="width: 80%; border-style: solid; border-width: medium;" src="public/be_social_license.txt"></iframe>
+   <iframe style="width: 80%; border-style: solid; border-width: medium;" src="be_social_license.txt"></iframe>
  
    <div style="width: 18%; align-self: center;">
       <h3>Be aware!</h3>
@@ -44,7 +44,7 @@ Source: https://sourcefranke.github.io/be_social_license
 Once upon a time in the Executive Suite
 
 <div style="display: flex; justify-content: space-between; gap: 10px; height: 75%">
-    <img src="public/broadcom_vmware.png" width="75%" />
+    <img src="broadcom_vmware.png" width="75%" />
     <div style="width: 28%; align-self: center">
         <h3>VMware</h3>
         Developer of Spring Boot
@@ -91,10 +91,10 @@ Source: https://www.techtarget.com/searchcio/definition/software-license
 Tools and frameworks we use all the time
 
 <div style="display: flex; justify-content: space-between; background-color: white; padding: 10px">
-    <img src="public/Angular.svg" width="20%"/>
-    <img src="public/Java.svg" width="20%"/>
-    <img src="public/Typescript.svg" width="20%" />
-    <img src="public/Spring_Boot.svg" width="20%"/>
+    <img src="Angular.svg" width="20%"/>
+    <img src="Java.svg" width="20%"/>
+    <img src="Typescript.svg" width="20%" />
+    <img src="Spring_Boot.svg" width="20%"/>
 </div>
 
 Do you actually know about any license terms for your tools?
@@ -110,7 +110,7 @@ Usually, we use all these without wasting any thought about licensing.
 MIT license
 
 <div style="display: flex; justify-content: space-between; gap: 10px; height: 65%">
-    <iframe style="width: 70%; border-style: solid; border-width: medium;" src="public/MIT.txt"></iframe>
+    <iframe style="width: 70%; border-style: solid; border-width: medium;" src="MIT.txt"></iframe>
     <div style="width: 28%; align-self: center">
         <h3>Pretty short, right?</h3>
         So much freedom!
@@ -132,7 +132,7 @@ It depends! \:-D
 <br>
 <div style="display: flex; flex-flow: row; justify-content: space-around;">
     <div style="width: 45%">
-        <img src="public/Oracle.svg" style="width: 100%; height: 50px" />
+        <img src="Oracle.svg" style="width: 100%; height: 50px" />
         <br>
         <ul>
             <li>Proprietary</li>
@@ -145,7 +145,7 @@ It depends! \:-D
          </a>
     </div>
     <div style="width: 45%">
-        <img src="public/openjdk.png" style="width: 100%; height: 50px" />
+        <img src="openjdk.png" style="width: 100%; height: 50px" />
         <br>
         <ul>
             <li>Open Source (starting with OpenJDK 7)</li>
@@ -165,7 +165,7 @@ This is another note
 GNU General Public License, Version 2 (GPLv2)
 
 <div style="display: flex; justify-content: space-between; gap: 10px; height: 75%">
-    <iframe style="width: 70%; border-style: solid; border-width: medium;" src="public/gpl-2.0.txt"></iframe>
+    <iframe style="width: 70%; border-style: solid; border-width: medium;" src="gpl-2.0.txt"></iframe>
     <div style="width: 28%; align-self: center">
         <h3>Point 2 b)</h3>
         If you copy code, you have to take the license with you
@@ -183,8 +183,8 @@ It definitely has some real impact!
 <br>
 
 <div style="display: flex; justify-content: space-between">
-    <img src="public/sfc_vizio_1.png" height="49%" width="49%" />
-    <img src="public/sfc_vizio_2.png" height="49%" width="49%" />
+    <img src="sfc_vizio_1.png" height="49%" width="49%" />
+    <img src="sfc_vizio_2.png" height="49%" width="49%" />
 </div>
 
 <br>
@@ -201,7 +201,7 @@ Sources:
 Apache License, Version 2.0
 
 <div style="display: flex; justify-content: space-between; gap: 10px; height: 75%">
-    <iframe style="width: 70%; border-style: solid; border-width: medium;" src="public/apache.txt"></iframe>
+    <iframe style="width: 70%; border-style: solid; border-width: medium;" src="apache.txt"></iframe>
     <div style="width: 28%; align-self: center">
         <h3>4. Redistribution</h3>
         Changed have parts to be declared, but allowed to be licensed differently.
