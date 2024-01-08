@@ -33,7 +33,7 @@ Please give feedback on how to improve
 Before we start: a short legal hint
 
 <div style="display: flex; justify-content: space-between; gap: 10px; height: 75%">
-   <iframe style="width: 80%; border-style: solid; border-width: medium;" src="/be_social_license.txt"></iframe>
+   <iframe style="width: 80%; border-style: solid; border-width: medium;" src="be_social_license.txt"></iframe>
  
    <div style="width: 18%; align-self: center;">
       <h3>Be aware!</h3>
@@ -141,7 +141,7 @@ Do you actually know about any license terms for tools you regularly use at work
 MIT license
 
 <div style="display: flex; justify-content: space-between; gap: 10px; height: 65%">
-    <iframe style="width: 70%; border-style: solid; border-width: medium;" src="/MIT.txt"></iframe>
+    <iframe style="width: 70%; border-style: solid; border-width: medium;" src="MIT.txt"></iframe>
     <div style="width: 28%; align-self: center">
         <h3>Pretty short, right?</h3>
         So much freedom!
@@ -203,7 +203,7 @@ Acquisition of Sun Microsystems by ORACLE in 2009-10
 GNU General Public License, Version 2 (GPLv2)
 
 <div style="display: flex; justify-content: space-between; gap: 10px; height: 75%">
-    <iframe style="width: 70%; border-style: solid; border-width: medium;" src="/gpl-2.0.txt"></iframe>
+    <iframe style="width: 70%; border-style: solid; border-width: medium;" src="gpl-2.0.txt"></iframe>
     <div style="width: 28%; align-self: center">
         <h3>Point 2 b)</h3>
         If you copy parts of the source code, you have to take the license with you for your whole product!
@@ -242,7 +242,7 @@ Sources:
 Apache License, Version 2.0
 
 <div style="display: flex; justify-content: space-between; gap: 10px; height: 60%">
-    <iframe style="width: 70%; border-style: solid; border-width: medium;" src="/apache.txt"></iframe>
+    <iframe style="width: 70%; border-style: solid; border-width: medium;" src="apache.txt"></iframe>
     <div style="width: 28%; align-self: center">
         <h3>4. Redistribution</h3>
         Changed parts have to be declared, but are allowed to be licensed differently.
