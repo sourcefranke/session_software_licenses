@@ -44,23 +44,32 @@ Source: https://sourcefranke.github.io/be_social_license
 Once upon a time in the Executive Suite
 
 <div style="display: flex; justify-content: space-between; gap: 10px; height: 75%">
-    <img src="/broadcom_vmware.png" width="75%" />
+    <img src="/broadcom_vmware.png" style="width: 75%; border-style: solid; border-width: medium;" />
     <div style="width: 28%; align-self: center">
         <h3>VMware</h3>
         Developer of Spring Boot
-        <p>Consequences expected for future development of Spring Boot?</p>
+        <br><br>
+        Nothing spectacular at first sight, or?
     </div>
 </div>
 
 Source: https://www.broadcom.com/blog/broadcom-announces-successful-acquisition-of-vmware
 
-<!--
-When did I last REALLY check the terms of:
-- Open Source frameworks I use
-- All my insurances
-- The employment contract I  signed years ago
-- etc.
--->
+
+---
+
+# Why care about licenses? (2)
+So what?
+
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+    <img src="/broadcom_vmware_2.png" style="width: 60%; height: 60%; border-style: solid; border-width: medium;" />
+    <div style="width: 38%; align-self: center">
+        <h3>Turning the whole business inside out!</h3>
+        Does that lead to consequences for Spring Boot, too?
+    </div>
+</div>
+
+Source: https://rcpmag.com/articles/2023/12/13/broadcom-kills-vmware-perpetual-licenses.aspx
 
 
 ---
@@ -88,7 +97,7 @@ Source: https://www.techtarget.com/searchcio/definition/software-license
 ---
 
 # Let's have a closer look
-Tools and frameworks we use all the time
+Behind the scenes
 
 <div style="display: flex; justify-content: space-between; background-color: white; padding: 10px">
     <img src="/Angular.svg" width="20%"/>
@@ -97,11 +106,7 @@ Tools and frameworks we use all the time
     <img src="/Spring_Boot.svg" width="20%"/>
 </div>
 
-Do you actually know about any license terms for your tools?
-
-<!--
-Usually, we use all these without wasting any thought about licensing.
--->
+Do you actually know about any license terms for tools you regularly use at work?
 
 
 ---
@@ -118,10 +123,6 @@ MIT license
 </div>
 
 Source: https://angular.io/license
-
-<!--
-Massachusetts Institute of Technology (MIT)
--->
 
 
 ---
@@ -154,10 +155,6 @@ It depends! \:-D
     </div>
 </div>
 
-<!--
-This is another note
--->
-
 
 ---
 
@@ -169,6 +166,8 @@ GNU General Public License, Version 2 (GPLv2)
     <div style="width: 28%; align-self: center">
         <h3>Point 2 b)</h3>
         If you copy code, you have to take the license with you
+        <br>
+        So you never get out ouf these conditions again!
     </div>
 </div>
 
@@ -189,6 +188,7 @@ It definitely has some real impact!
 
 <br>
 <br>
+<br>
 
 Sources:
 - https://www.zdnet.com/article/open-source-vizio-lawsuit-takes-an-ugly-turn/
@@ -200,15 +200,17 @@ Sources:
 # TypeScript & Spring Boot
 Apache License, Version 2.0
 
-<div style="display: flex; justify-content: space-between; gap: 10px; height: 75%">
+<div style="display: flex; justify-content: space-between; gap: 10px; height: 60%">
     <iframe style="width: 70%; border-style: solid; border-width: medium;" src="apache.txt"></iframe>
     <div style="width: 28%; align-self: center">
         <h3>4. Redistribution</h3>
-        Changed have parts to be declared, but allowed to be licensed differently.
+        Changed parts have to be declared, but are allowed to be licensed differently.
     </div>
 </div>
 
-Source: https://github.com/microsoft/TypeScript
+Sources:
+- https://github.com/microsoft/TypeScript
+- https://github.com/spring-projects/spring-boot
 
 
 ---
@@ -216,4 +218,4 @@ layout: end
 ---
 
 # Read The F***ing Small Print (RTFSP)
-I am looking forward to receive a lot of coffee!!
+I am looking forward to drink a lot of coffee!!
