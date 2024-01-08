@@ -126,10 +126,10 @@ Source: https://www.techtarget.com/searchcio/definition/software-license
 Behind the scenes
 
 <div style="display: flex; justify-content: space-between; background-color: white; padding: 10px">
-    <img src="/Angular.svg" width="20%"/>
-    <img src="/Java.svg" width="20%"/>
-    <img src="/Typescript.svg" width="20%" />
-    <img src="/Spring_Boot.svg" width="20%"/>
+    <img src="/angular.png" width="20%"/>
+    <img src="/java.png" width="20%"/>
+    <img src="/typescript.png" width="20%" />
+    <img src="/spring-boot.png" width="20%"/>
 </div>
 
 Do you actually know about any license terms for tools you regularly use at work?
@@ -162,7 +162,7 @@ It depends! \:-D
 <br>
 <div style="display: flex; flex-flow: row; justify-content: space-around;">
     <div style="width: 45%">
-        <img src="/Oracle.svg" style="width: 100%; height: 50px" />
+        <img src="/oracle.png" style="width: 100%; height: 50px" />
         <br>
         <ul>
             <li>Proprietary</li>
