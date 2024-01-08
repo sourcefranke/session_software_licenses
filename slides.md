@@ -20,6 +20,12 @@ mdc: true
   </span>
 </div>
 
+<!--
+I am not a legal expert
+
+Please give feedback on how to improve
+-->
+
 
 ---
 
@@ -27,16 +33,29 @@ mdc: true
 Before we start: a short legal hint
 
 <div style="display: flex; justify-content: space-between; gap: 10px; height: 75%">
-   <iframe style="width: 80%; border-style: solid; border-width: medium;" src="be_social_license.txt"></iframe>
+   <iframe style="width: 80%; border-style: solid; border-width: medium;" src="/be_social_license.txt"></iframe>
  
    <div style="width: 18%; align-self: center;">
       <h3>Be aware!</h3>
-      By attending this session you consent to buying me a coffee ;P
+      By attending this session you consent to buying me a cup of coffee ;P
    </div>
 </div>
 
 Source: https://sourcefranke.github.io/be_social_license
 
+
+---
+
+# Start with a little quiz
+Do you know all the answers?
+
+<div style="display: flex; justify-content: center; align-items: center; height: 75%">
+    <ol>
+        <li>How long have you been working at your company?</li>
+        <li>When did you the last time read your employment contract?</li>
+        <li>Without looking it up: what details can you remember from your employment contract? ... Don't tell us!</li>
+    </ol>
+</div>
 
 ---
 
@@ -61,13 +80,19 @@ Source: https://www.broadcom.com/blog/broadcom-announces-successful-acquisition-
 # Why care about licenses? (2)
 So what?
 
+<br>
+
 <div style="display: flex; justify-content: space-between; gap: 10px;">
     <img src="/broadcom_vmware_2.png" style="width: 60%; height: 60%; border-style: solid; border-width: medium;" />
     <div style="width: 38%; align-self: center">
         <h3>Turning the whole business inside out!</h3>
-        Does that lead to consequences for Spring Boot, too?
+        Does that potentally lead to any unpleasant consequences for Spring Boot, too?
     </div>
 </div>
+
+<br>
+<br>
+<br>
 
 Source: https://rcpmag.com/articles/2023/12/13/broadcom-kills-vmware-perpetual-licenses.aspx
 
@@ -80,7 +105,7 @@ Some short definition
 <br>
 <br>
 
-<h3>
+<h3 style="border-style: solid; border-width: medium; padding: 5px;">
 A software license is a document that provides legally binding guidelines for the use and distribution of software.
 
 Software licenses typically provide end users with the right to one or more copies of the software without violating
@@ -88,6 +113,7 @@ copyrights. The license also defines the responsibilities of the parties enterin
 impose restrictions on how the software can be used.
 </h3>
 
+<br>
 <br>
 <br>
 <br>
@@ -115,12 +141,15 @@ Do you actually know about any license terms for tools you regularly use at work
 MIT license
 
 <div style="display: flex; justify-content: space-between; gap: 10px; height: 65%">
-    <iframe style="width: 70%; border-style: solid; border-width: medium;" src="MIT.txt"></iframe>
+    <iframe style="width: 70%; border-style: solid; border-width: medium;" src="/MIT.txt"></iframe>
     <div style="width: 28%; align-self: center">
         <h3>Pretty short, right?</h3>
         So much freedom!
     </div>
 </div>
+
+<br>
+<br>
 
 Source: https://angular.io/license
 
@@ -154,6 +183,18 @@ It depends! \:-D
          => let's have a closer look
     </div>
 </div>
+<br>
+<p style="text-align: center">
+    So, there is not THAT ONE Java
+</p>
+
+<!--
+Java first released in 1995
+
+OpenJDK 7 released on November 13, 2006
+
+Acquisition of Sun Microsystems by ORACLE in 2009-10
+-->
 
 
 ---
@@ -162,12 +203,12 @@ It depends! \:-D
 GNU General Public License, Version 2 (GPLv2)
 
 <div style="display: flex; justify-content: space-between; gap: 10px; height: 75%">
-    <iframe style="width: 70%; border-style: solid; border-width: medium;" src="gpl-2.0.txt"></iframe>
+    <iframe style="width: 70%; border-style: solid; border-width: medium;" src="/gpl-2.0.txt"></iframe>
     <div style="width: 28%; align-self: center">
         <h3>Point 2 b)</h3>
-        If you copy code, you have to take the license with you
-        <br>
-        So you never get out ouf these conditions again!
+        If you copy parts of the source code, you have to take the license with you for your whole product!
+        <br><br>
+        So you never get out ouf there again ...
     </div>
 </div>
 
@@ -201,7 +242,7 @@ Sources:
 Apache License, Version 2.0
 
 <div style="display: flex; justify-content: space-between; gap: 10px; height: 60%">
-    <iframe style="width: 70%; border-style: solid; border-width: medium;" src="apache.txt"></iframe>
+    <iframe style="width: 70%; border-style: solid; border-width: medium;" src="/apache.txt"></iframe>
     <div style="width: 28%; align-self: center">
         <h3>4. Redistribution</h3>
         Changed parts have to be declared, but are allowed to be licensed differently.
@@ -218,4 +259,4 @@ layout: end
 ---
 
 # Read The F***ing Small Print (RTFSP)
-I am looking forward to drink a lot of coffee!!
+I am really looking forward to drinking a lot of coffee!!
