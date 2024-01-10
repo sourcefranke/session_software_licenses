@@ -20,12 +20,6 @@ mdc: true
   </span>
 </div>
 
-<!--
-I am not a legal expert
-
-Please give feedback on how to improve
--->
-
 
 ---
 
@@ -33,7 +27,7 @@ Please give feedback on how to improve
 Before we start: a short legal hint
 
 <div style="display: flex; justify-content: space-between; gap: 10px; height: 75%">
-   <iframe style="width: 80%; border-style: solid; border-width: medium;" src="be_social_license.txt"></iframe>
+   <iframe style="width: 80%; border-style: solid; border-width: medium;" src="/be_social_license.txt"></iframe>
  
    <div style="width: 18%; align-self: center;">
       <h3>Be aware!</h3>
@@ -46,7 +40,7 @@ Source: https://sourcefranke.github.io/be_social_license
 
 ---
 
-# Start with a little quiz
+# Warm-up Quiz
 Do you know all the answers?
 
 <div style="display: flex; justify-content: center; align-items: center; height: 75%">
@@ -141,7 +135,7 @@ Do you actually know about any license terms for tools you regularly use at work
 MIT license
 
 <div style="display: flex; justify-content: space-between; gap: 10px; height: 65%">
-    <iframe style="width: 70%; border-style: solid; border-width: medium;" src="MIT.txt"></iframe>
+    <iframe style="width: 70%; border-style: solid; border-width: medium;" src="/MIT.txt"></iframe>
     <div style="width: 28%; align-self: center">
         <h3>Pretty short, right?</h3>
         So much freedom!
@@ -166,6 +160,7 @@ It depends! \:-D
         <br>
         <ul>
             <li>Proprietary</li>
+            <li>Acquired Sun Microsystems in 2010</li>
             <li>Oracle No-Fee Terms and Conditions License (NFTC, changed with JDK 17)</li>
         </ul>
         <br/>
@@ -179,6 +174,7 @@ It depends! \:-D
         <br>
         <ul>
             <li>Open Source (starting with OpenJDK 7)</li>
+            <li>Starting with OpenJDK 7 in 2006</li>
         </ul>
          => let's have a closer look
     </div>
@@ -188,14 +184,6 @@ It depends! \:-D
     So, there is not THAT ONE Java
 </p>
 
-<!--
-Java first released in 1995
-
-OpenJDK 7 released on November 13, 2006
-
-Acquisition of Sun Microsystems by ORACLE in 2009-10
--->
-
 
 ---
 
@@ -203,7 +191,7 @@ Acquisition of Sun Microsystems by ORACLE in 2009-10
 GNU General Public License, Version 2 (GPLv2)
 
 <div style="display: flex; justify-content: space-between; gap: 10px; height: 75%">
-    <iframe style="width: 70%; border-style: solid; border-width: medium;" src="gpl-2.0.txt"></iframe>
+    <iframe style="width: 70%; border-style: solid; border-width: medium;" src="/gpl-2.0.txt"></iframe>
     <div style="width: 28%; align-self: center">
         <h3>Point 2 b)</h3>
         If you copy parts of the source code, you have to take the license with you for your whole product!
@@ -242,7 +230,7 @@ Sources:
 Apache License, Version 2.0
 
 <div style="display: flex; justify-content: space-between; gap: 10px; height: 60%">
-    <iframe style="width: 70%; border-style: solid; border-width: medium;" src="apache.txt"></iframe>
+    <iframe style="width: 70%; border-style: solid; border-width: medium;" src="/apache.txt"></iframe>
     <div style="width: 28%; align-self: center">
         <h3>4. Redistribution</h3>
         Changed parts have to be declared, but are allowed to be licensed differently.
@@ -259,4 +247,4 @@ layout: end
 ---
 
 # Read The F***ing Small Print (RTFSP)
-I am really looking forward to drinking a lot of coffee!!
+I am really looking forward to drinking a lot of coffee ;-P
