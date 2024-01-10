@@ -20,10 +20,10 @@ mdc: true
   </span>
 </div>
 
-<div class="abs-br m-6 flex gap-2 items-baseline opacity-50 !hover:text-white">
+<div class="abs-br m-6 flex gap-2 items-baseline opacity-50">
     <span class="text-sm">v2024-01-10</span>
     <a href="https://github.com/sourcefranke/session_software_licenses" target="_blank" alt="GitHub"
-        class="text-xl slidev-icon-btn !border-none">
+        class="text-xl slidev-icon-btn !border-none !hover:text-white">
         <carbon-logo-github />
     </a>
 </div>
