@@ -20,6 +20,14 @@ mdc: true
   </span>
 </div>
 
+<div class="abs-br m-6 flex gap-2 items-baseline opacity-50 !hover:text-white">
+    <span class="text-sm">v2024-01-10</span>
+    <a href="https://github.com/sourcefranke/session_software_licenses" target="_blank" alt="GitHub"
+        class="text-xl slidev-icon-btn !border-none">
+        <carbon-logo-github />
+    </a>
+</div>
+
 
 ---
 
@@ -35,7 +43,9 @@ Before we start: a short legal hint
    </div>
 </div>
 
-Source: https://sourcefranke.github.io/be_social_license
+<div class="flex justify-end text-xs align-self-end mt-10">
+    <span>Source: <a href="https://sourcefranke.github.io/be_social_license">https://sourcefranke.github.io/be_social_license</a></span>
+</div>
 
 
 ---
@@ -66,7 +76,11 @@ Once upon a time in the Executive Suite
     </div>
 </div>
 
-Source: https://www.broadcom.com/blog/broadcom-announces-successful-acquisition-of-vmware
+<div class="flex justify-end text-xs align-self-end mt-10">
+    <span>Source: <a href="https://www.broadcom.com/blog/broadcom-announces-successful-acquisition-of-vmware">
+        https://www.broadcom.com/blog/broadcom-announces-successful-acquisition-of-vmware
+    </a></span>
+</div>
 
 
 ---
@@ -84,11 +98,11 @@ So what?
     </div>
 </div>
 
-<br>
-<br>
-<br>
-
-Source: https://rcpmag.com/articles/2023/12/13/broadcom-kills-vmware-perpetual-licenses.aspx
+<div class="flex justify-end text-xs align-self-end mt-30">
+    <span>Source: <a href="https://rcpmag.com/articles/2023/12/13/broadcom-kills-vmware-perpetual-licenses.aspx">
+        https://rcpmag.com/articles/2023/12/13/broadcom-kills-vmware-perpetual-licenses.aspx
+    </a></span>
+</div>
 
 
 ---
@@ -107,12 +121,12 @@ copyrights. The license also defines the responsibilities of the parties enterin
 impose restrictions on how the software can be used.
 </h3>
 
-<br>
-<br>
-<br>
-<br>
+<div class="flex justify-end text-xs align-self-end mt-32">
+    <span>Source: <a href="https://www.techtarget.com/searchcio/definition/software-license">
+        https://www.techtarget.com/searchcio/definition/software-license
+    </a></span>
+</div>
 
-Source: https://www.techtarget.com/searchcio/definition/software-license
 
 ---
 
@@ -142,10 +156,11 @@ MIT license
     </div>
 </div>
 
-<br>
-<br>
-
-Source: https://angular.io/license
+<div class="flex justify-end text-xs align-self-end mt-20">
+    <span>Source: <a href="https://angular.io/license">
+        https://angular.io/license
+    </a></span>
+</div>
 
 
 ---
@@ -163,11 +178,6 @@ It depends! \:-D
             <li>Acquired Sun Microsystems in 2010</li>
             <li>Oracle No-Fee Terms and Conditions License (NFTC, changed with JDK 17)</li>
         </ul>
-        <br/>
-        Source:
-         <a href="https://www.oracle.com/downloads/licenses/no-fee-license.html">
-            https://www.oracle.com/downloads/licenses/no-fee-license.html
-         </a>
     </div>
     <div style="width: 45%">
         <img src="/openjdk.png" style="width: 100%; height: 50px" />
@@ -183,6 +193,11 @@ It depends! \:-D
 <p style="text-align: center">
     So, there is not THAT ONE Java
 </p>
+<div class="flex justify-end text-xs align-self-end mt-25">
+    <span>Source: <a href="https://www.oracle.com/downloads/licenses/no-fee-license.html">
+        https://www.oracle.com/downloads/licenses/no-fee-license.html
+    </a></span>
+</div>
 
 
 ---
@@ -200,7 +215,11 @@ GNU General Public License, Version 2 (GPLv2)
     </div>
 </div>
 
-Source: https://github.com/openjdk/jdk
+<div class="flex justify-end text-xs align-self-end mt-10">
+    <span>Source: <a href="https://github.com/openjdk/jdk">
+        https://github.com/openjdk/jdk
+    </a></span>
+</div>
 
 
 ---
@@ -215,13 +234,19 @@ It definitely has some real impact!
     <img src="/sfc_vizio_2.png" height="49%" width="49%" />
 </div>
 
-<br>
-<br>
-<br>
-
-Sources:
-- https://www.zdnet.com/article/open-source-vizio-lawsuit-takes-an-ugly-turn/
-- https://www.zdnet.com/article/software-freedom-conservancy-wins-big-step-forward-for-open-source-rights/
+<div class="flex justify-end text-xs align-self-end mt-40">
+    <div>
+        Sources:
+        <ul>
+            <li><a href="https://www.zdnet.com/article/open-source-vizio-lawsuit-takes-an-ugly-turn/">
+                https://www.zdnet.com/article/open-source-vizio-lawsuit-takes-an-ugly-turn/
+            </a></li>
+            <li><a href="https://www.zdnet.com/article/software-freedom-conservancy-wins-big-step-forward-for-open-source-rights/">
+                https://www.zdnet.com/article/software-freedom-conservancy-wins-big-step-forward-for-open-source-rights/
+            </a></li>
+        </ul>
+    </div>
+</div>
 
 
 ---
@@ -237,9 +262,19 @@ Apache License, Version 2.0
     </div>
 </div>
 
-Sources:
-- https://github.com/microsoft/TypeScript
-- https://github.com/spring-projects/spring-boot
+<div class="flex justify-end text-xs align-self-end mt-15">
+    <div>
+        Sources:
+        <ul>
+            <li><a href="https://github.com/microsoft/TypeScript">
+                https://github.com/microsoft/TypeScript
+            </a></li>
+            <li><a href="https://github.com/spring-projects/spring-boot">
+                https://github.com/spring-projects/spring-boot
+            </a></li>
+        </ul>
+    </div>
+</div>
 
 
 ---
