@@ -2,9 +2,9 @@
   "name": "session_software_licenses",
   "private": true,
   "scripts": {
-    "build": "slidev build",
+    "build": "slidev build --download",
     "dev": "slidev",
-    "export": "slidev export --dark --output session_software_licenses_slides"
+    "export": "slidev export"
   },
   "dependencies": {
     "@slidev/cli": "latest",
