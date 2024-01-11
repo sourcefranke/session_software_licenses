@@ -2,12 +2,14 @@
   "name": "session_software_licenses",
   "private": true,
   "scripts": {
-    "build": "slidev build",
+    "build": "slidev build --download",
     "dev": "slidev",
     "export": "slidev export"
   },
   "dependencies": {
     "@slidev/cli": "latest",
-    "@slidev/theme-seriph": "latest"
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "playwright-chromium": "latest"
   }
 }
