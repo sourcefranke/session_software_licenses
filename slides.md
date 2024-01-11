@@ -11,6 +11,12 @@ title: Open Source licenses
 mdc: true
 ---
 
+<style>
+    .sources {
+        @apply flex justify-end text-xs align-self-end mt-10;
+    }
+</style>
+
 # (Open Source) Licenses
 # So boring ... isn't it?
 
@@ -47,7 +53,7 @@ Before we start: a short legal hint
    </div>
 </div>
 
-<div class="flex justify-end text-xs align-self-end mt-10">
+<div class="sources">
     <span>Source: <a href="https://sourcefranke.github.io/be_social_license">https://sourcefranke.github.io/be_social_license</a></span>
 </div>
 
@@ -80,7 +86,7 @@ Once upon a time in the Executive Suite
     </div>
 </div>
 
-<div class="flex justify-end text-xs align-self-end mt-10">
+<div class="sources">
     <span>Source: <a href="https://www.broadcom.com/blog/broadcom-announces-successful-acquisition-of-vmware">
         https://www.broadcom.com/blog/broadcom-announces-successful-acquisition-of-vmware
     </a></span>
@@ -102,7 +108,7 @@ So what?
     </div>
 </div>
 
-<div class="flex justify-end text-xs align-self-end mt-30">
+<div class="sources !mt-30">
     <span>Source: <a href="https://rcpmag.com/articles/2023/12/13/broadcom-kills-vmware-perpetual-licenses.aspx">
         https://rcpmag.com/articles/2023/12/13/broadcom-kills-vmware-perpetual-licenses.aspx
     </a></span>
@@ -125,7 +131,7 @@ copyrights. The license also defines the responsibilities of the parties enterin
 impose restrictions on how the software can be used.
 </h3>
 
-<div class="flex justify-end text-xs align-self-end mt-32">
+<div class="sources !mt-32">
     <span>Source: <a href="https://www.techtarget.com/searchcio/definition/software-license">
         https://www.techtarget.com/searchcio/definition/software-license
     </a></span>
@@ -160,7 +166,7 @@ MIT license
     </div>
 </div>
 
-<div class="flex justify-end text-xs align-self-end mt-20">
+<div class="sources !mt-20">
     <span>Source: <a href="https://angular.io/license">
         https://angular.io/license
     </a></span>
@@ -197,7 +203,7 @@ It depends! \:-D
 <p style="text-align: center">
     So, there is not THAT ONE Java
 </p>
-<div class="flex justify-end text-xs align-self-end mt-25">
+<div class="sources !mt-25">
     <span>Source: <a href="https://www.oracle.com/downloads/licenses/no-fee-license.html">
         https://www.oracle.com/downloads/licenses/no-fee-license.html
     </a></span>
@@ -219,7 +225,7 @@ GNU General Public License, Version 2 (GPLv2)
     </div>
 </div>
 
-<div class="flex justify-end text-xs align-self-end mt-10">
+<div class="sources">
     <span>Source: <a href="https://github.com/openjdk/jdk">
         https://github.com/openjdk/jdk
     </a></span>
@@ -238,7 +244,7 @@ It definitely has some real impact!
     <img src="/sfc_vizio_2.png" height="49%" width="49%" />
 </div>
 
-<div class="flex justify-end text-xs align-self-end mt-40">
+<div class="sources !mt-40">
     <div>
         Sources:
         <ul>
@@ -266,7 +272,7 @@ Apache License, Version 2.0
     </div>
 </div>
 
-<div class="flex justify-end text-xs align-self-end mt-15">
+<div class="sources !mt-15">
     <div>
         Sources:
         <ul>

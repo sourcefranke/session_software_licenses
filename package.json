@@ -4,10 +4,12 @@
   "scripts": {
     "build": "slidev build",
     "dev": "slidev",
-    "export": "slidev export"
+    "export": "slidev export --dark --output session_software_licenses_slides"
   },
   "dependencies": {
     "@slidev/cli": "latest",
-    "@slidev/theme-seriph": "latest"
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "playwright-chromium": "latest"
   }
 }
